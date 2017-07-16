@@ -1,6 +1,6 @@
 # Dash-Fundamental-Analysis
 
-This is not Investment Advice, it should not be taken as such
+This is not Investment Advice, it should not be taken as such. Rataings are subject to change.
 
 Ratings Chart: <br>
 5 = Excellent - Significantly Undervalued <br>
@@ -35,6 +35,8 @@ ATM’s: 12 (All in U.S.) https://coinatmradar.com/ - Oregon, Florida, New York 
 
 Dev Activity: Highly Active https://github.com/dashpay/ | 5
 
+<b> Network Speed </b>| 4.5 ~ <br>
+Near instant transaction, though not instantly spendable (Screenshot Attached in Repo)
 
 <b> Software/QA </b> | 4
 
@@ -45,15 +47,37 @@ Native Wallet: OS X | 3.5 <br>
 Native Wallet: Linux | 4 <br>
 Online/Web Wallet | 4 <br>
 
+<b>Security: Software </b> | 4
+Overall the dev community is very active, the wallets have standard ++ security / options for 2FA / PK backups / Alternative Protection. The $DASH devs have one of the more active/robust/dynamic development teams I have come across. This rating will bump to a 5 if wallets / masternode software QA passes inspection
+
+<b> Developer Profiles </b> | 5
+Current Lead Dev by Contributions: UdjinM6 | 5
+Public Github History: https://github.com/UdjinM6?page=1&tab=repositories | 5
+Total Developers (Lifespan): 350+ | 5
+
+<b> Community Support </b> | 5
+Slack / Community / Heroku Members: 5,000+
+
+<b> News </b> | 5 (Bullish) <br>
+https://www.dash.org/2017/07/14/festy.html - Festy wristband lets users pay with Dash
+Jul 14, 2017
+
+https://www.dash.org/2017/07/14/coreinchina.html - Dash Core coming to China ; )
+Jul 14, 2017
+
+<b>Governace</b> | 4+ <br>
+Masternodes, Proposals - https://dashvotetracker.com/
+I love the strucuture of $DASH governance upon first glance. Similar to some other (cheap) networks that have followed the model. One of the most progressive/impressive blockchain economic models I have seen - but need to test security, and look for holes in economic theory (Specific vulnerabilities within the microeconimcs of the model, tragedy of commons, issues with nash equilibrium ect ect)
+
+
 <b> Harware Wallets </b>| 5 <br>
 Trezor: Yes
 
-<b> Network Speed </b>| 4.5 ~ <br>
-Near instant transaction, though not instantly spendable (Screenshot Attached in Repo)
 
-Security: Hardware | TBD
+Security: Hardware | TBD, Coming Soon <br> 
 
-Security: Software | TBD
+
+
 
 
 
