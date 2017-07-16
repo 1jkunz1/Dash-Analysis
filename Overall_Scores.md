@@ -2,12 +2,12 @@
 
 This is not Investment Advice, it should not be taken as such
 
-Ratings Chart:
-5 = Excellent - Significantly Undervalued
-4 = Very Good - Undervalued
-3 = Good - Properly Valued
-2 = Needs Improvement - Overalued
-1 = Poor - Significantly Overvalued
+Ratings Chart: <br>
+5 = Excellent - Significantly Undervalued <br>
+4 = Very Good - Undervalued <br>
+3 = Good - Properly Valued <br>
+2 = Needs Improvement - Overalued <br>
+1 = Poor - Significantly Overvalued <br>
 
 * = Needs more analysis, or unsure if data point is accurate
 
