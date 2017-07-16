@@ -2,7 +2,8 @@
 
 This is not Investment Advice, it should not be taken as such. Rataings are subject to change.
 
-Ratings Chart: <br>
+Rating Chart: <br>
+
 5 = Excellent - Significantly Undervalued <br>
 4 = Very Good - Undervalued <br>
 3 = Good - Properly Valued <br>
@@ -47,10 +48,10 @@ Native Wallet: OS X | 3.5 <br>
 Native Wallet: Linux | 4 <br>
 Online/Web Wallet | 4 <br>
 
-<b>Security: Software </b> | 4
-Overall the dev community is very active, the wallets have standard ++ security / options for 2FA / PK backups / Alternative Protection. The $DASH devs have one of the more active/robust/dynamic development teams I have come across. This rating will bump to a 5 if wallets / masternode software QA passes inspection
+<b>Security: Software </b> | 4 <br>
+Overall the dev community is very active, the wallets have standard ++ security / options for 2FA / PK backups / Alternative Protection. The $DASH devs have one of the more active/robust/dynamic development teams in the space. This rating will bump to a 5 if wallets / masternode software QA passes inspection
 
-<b> Developer Profiles </b> | 5
+<b> Developer Profiles </b> | 5 <br>
 Current Lead Dev by Contributions: UdjinM6 | 5
 Public Github History: https://github.com/UdjinM6?page=1&tab=repositories | 5
 Total Developers (Lifespan): 350+ | 5
@@ -67,7 +68,7 @@ Jul 14, 2017
 
 <b>Governace</b> | 4+ <br>
 Masternodes, Proposals - https://dashvotetracker.com/
-I love the strucuture of $DASH governance upon first glance. Similar to some other (cheap) networks that have followed the model. One of the most progressive/impressive blockchain economic models I have seen - but need to test security, and look for holes in economic theory (Specific vulnerabilities within the microeconimcs of the model, tragedy of commons, issues with nash equilibrium ect ect)
+Similar to some other (cheap) networks that have followed the model - impressive. One of the most progressive/impressive blockchain economic models in blockchain -  need to test security, and look for holes in economic theory (Specific vulnerabilities within the microeconimcs of the model, tragedy of commons, issues with nash equilibrium ect ect)
 
 
 <b> Harware Wallets </b>| 5 <br>
