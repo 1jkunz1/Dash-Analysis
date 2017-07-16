@@ -11,7 +11,7 @@ Ratings Chart: <br>
 
 * = Needs more analysis, or unsure if data point is accurate
 
-$DASH Overall Score: 4.5 - Undervalued
+$DASH Overall Score: <b> 4.5 - Undervalued </b>
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -36,19 +36,20 @@ ATM’s: 12 (All in U.S.) https://coinatmradar.com/ - Oregon, Florida, New York 
 Dev Activity: Highly Active https://github.com/dashpay/ | 5
 
 
-Software/Wallet Quality | 4
+<b> Software/Wallet Quality </b> | 4
 
 Tested: 
-Mobile Wallet (Android) | 5+
-Native Wallet: Windows | 4
-Native Wallet: OS X | 3.5
-Native Wallet: Linux | 4
-Online/Web Wallet | 4
+Mobile Wallet (Android) | 5+ <br>
+Native Wallet: Windows | 4 <br>
+Native Wallet: OS X | 3.5 <br>
+Native Wallet: Linux | 4 <br>
+Online/Web Wallet | 4 <br>
 
-Harware Wallets | 5
+<b> Harware Wallets </b>| 5 <br>
 Trezor: Yes
 
-Network Speed | 4.5 ~ Near instant transaction, though not instantly spendable (Screenshot Attached in Repo)
+<b> Network Speed </b>| 4.5 ~ <br>
+-Near instant transaction, though not instantly spendable (Screenshot Attached in Repo)
 
 
 
