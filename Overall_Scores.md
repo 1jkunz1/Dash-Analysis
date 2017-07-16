@@ -68,7 +68,7 @@ Jul 14, 2017
 
 <b>Governace</b> | 4+ <br>
 Masternodes, Proposals - https://dashvotetracker.com/
-Similar to some other (cheap) networks that have followed the model - impressive. One of the most progressive/impressive blockchain economic models in blockchain -  need to test security, and look for holes in economic theory (Specific vulnerabilities within the microeconimcs of the model, tragedy of commons, issues with nash equilibrium ect ect)
+Similar to some other (cheap) networks that have followed the model - impressive. One of the most progressive/impressive blockchain economic models in blockchain -  need to test security, and look for holes in economic theory (Specific vulnerabilities within the microeconomics of the model, tragedy of commons, issues with nash equilibrium ect ect)
 
 
 <b> Harware Wallets </b>| 5 <br>
