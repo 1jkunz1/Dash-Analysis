@@ -36,9 +36,9 @@ ATM’s: 12 (All in U.S.) https://coinatmradar.com/ - Oregon, Florida, New York 
 Dev Activity: Highly Active https://github.com/dashpay/ | 5
 
 
-<b> Software/Wallet Quality </b> | 4
+<b> Software/QA </b> | 4
 
-Tested: 
+Tested: <br>
 Mobile Wallet (Android) | 5+ <br>
 Native Wallet: Windows | 4 <br>
 Native Wallet: OS X | 3.5 <br>
@@ -49,7 +49,11 @@ Online/Web Wallet | 4 <br>
 Trezor: Yes
 
 <b> Network Speed </b>| 4.5 ~ <br>
--Near instant transaction, though not instantly spendable (Screenshot Attached in Repo)
+Near instant transaction, though not instantly spendable (Screenshot Attached in Repo)
+
+Security: Hardware | TBD
+
+Security: Software | TBD
 
 
 
