@@ -75,7 +75,7 @@ Similar to some other (cheap) networks that have followed the model - impressive
 Trezor: Yes
 
 
-Security: Hardware | TBD, Coming Soon <br> 
+<b> Security: Hardware </b> | TBD, Coming Soon <br> 
 
 
 
