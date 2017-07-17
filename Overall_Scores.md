@@ -1,4 +1,4 @@
-# Dash-Fundamental-Analysis
+# $Dash Fundamental Analysis
 
 <b> This is not Investment Advice, it should not be taken as such. Ratings are subject to change. </b>
 
