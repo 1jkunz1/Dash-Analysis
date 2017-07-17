@@ -56,7 +56,7 @@ Current Lead Dev by Contributions: UdjinM6 | 5 <br>
 Public Github History: https://github.com/UdjinM6?page=1&tab=repositories | 5 <br>
 Total Developers (Lifespan): 350+ | 5
 
-<b> Community Support </b> | 5
+<b> Community Support </b> | 5 <br>
 Slack / Community / Heroku Members: 5,000+
 
 <b> News </b> | 5 (Bullish) <br>
