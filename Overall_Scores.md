@@ -73,6 +73,8 @@ Similar to some other (cheap) networks that have followed the model - impressive
 
 <b> Harware Wallets </b>| 5 <br>
 Trezor: Yes
+Ledger: Yes
+Keepkey: Yes
 
 
 <b> Security: Hardware </b> | TBD, Coming Soon <br> 
