@@ -1,6 +1,6 @@
 # Dash-Fundamental-Analysis
 
-This is not Investment Advice, it should not be taken as such. Rataings are subject to change.
+This is not Investment Advice, it should not be taken as such. Ratings are subject to change.
 
 Rating Chart: <br>
 
@@ -20,7 +20,7 @@ $DASH Overall Score: <b> 4.5 - Undervalued </b>
 
 Merchants: https://www.dash.org/merchants/ - 70+ | 5
 
-Organic Volume: https://explorer.dashninja.pl/chain/Dash  | 3.5 - Link to last 500tx's in Repo
+Organic Volume: https://explorer.dashninja.pl/chain/Dash (Link to last 500tx's in Repo) | 3.5
 
 Organic Transactions per Block: 9.72 | 3.5
 
