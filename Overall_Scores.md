@@ -16,7 +16,7 @@ $DASH Overall Score: <b> 4.5 - Undervalued </b>
 
 -----------------------------------------------------------------------------------------------------------
 
-| Metric        | Quantity           | Rating  |
+| Metric        | Quantity           | AlphaCoin Rating  |
 | ------------- |:-------------:| -----:|
 | Merchants      | Yes | 5 |
 | Organic Volume    | 9.72tx/Block      |  3.5 |
