@@ -52,8 +52,8 @@ Online/Web Wallet | 4 <br>
 Overall the dev community is very active, the wallets have standard ++ security / options for 2FA / PK backups / Alternative Protection. The $DASH devs have one of the more active/robust/dynamic development teams in the space. This rating will bump to a 5 if wallets / masternode software QA passes inspection
 
 <b> Developer Profiles </b> | 5 <br>
-Current Lead Dev by Contributions: UdjinM6 | 5
-Public Github History: https://github.com/UdjinM6?page=1&tab=repositories | 5
+Current Lead Dev by Contributions: UdjinM6 | 5 <br>
+Public Github History: https://github.com/UdjinM6?page=1&tab=repositories | 5 <br>
 Total Developers (Lifespan): 350+ | 5
 
 <b> Community Support </b> | 5
