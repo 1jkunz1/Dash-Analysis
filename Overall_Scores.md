@@ -1,6 +1,6 @@
 # $DASH Fundamental Analysis
 
-<b> This is not Investment Advice, it should not be taken as such. Grades are subject to change.</b>
+<b> This is not Investment Advice, it should not be taken as such. Grades are subject to change. KPI grades are subjective, and overall grade is the result of a weighted (and frequently changing) forumula</b>
 
 $DASH - Digital Cash. "Use Dash to make instant, private payments online or in-store using our secure open-source platform hosted by thousands of users around the world."
 
