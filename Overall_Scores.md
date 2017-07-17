@@ -26,8 +26,9 @@ Last Update: 07/17/2017
 | Metric        | Quantity           |  Grade  |
 | ------------- |:-------------:| -----:|
 | Merchants      | 70+ | 5 |
+| Exchange Volume | $38.4MM      |    4 |
 | Organic Volume    | 9.72tx/Block      |  3.5 |
-| Organic Money Spent | $DASH 1476      |    5 |
+| Organic Money Spent | $206K     |    4.5 |
 | Masternode Distribution      | +++ | 5 |
 | Masternode Activity    | 4550      |   5|
 | Debit Cards | 5+      |    5 |
