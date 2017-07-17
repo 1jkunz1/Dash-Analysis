@@ -6,7 +6,7 @@
 
 https://www.dash.org/
 
-<b> Grade Chart: </b> <br>
+<b> Grade Chart </b> <br>
 
 5 = Excellent - Significantly Undervalued <br>
 4 = Very Good - Undervalued <br>
@@ -42,7 +42,7 @@ Organic Volume: https://explorer.dashninja.pl/chain/Dash (Link to last 500tx's i
 
 Organic Transactions per Block: 9.72 | 3.5
 
-Organic $ Amount Spent: $DASH 1476 | 5*
+Organic Money Spent: $DASH 1476 | 5*
 
 Maternodes Map by Country: http://178.254.23.111/~pub/Darkcoin/Masternodes_Map.html | 5
 
@@ -55,11 +55,11 @@ ATM’s: 12 (All in U.S.) https://coinatmradar.com/ - Oregon, Florida, New York 
 Dev Activity: Highly Active https://github.com/dashpay/ | 5
 
 <b> Network Speed </b>| 4.5 ~ <br>
+
 Near instant transaction, though not instantly spendable (Screenshot Attached in Repo)
 
-<b> Software/QA </b> | 4
+<b> Software/QA </b> | 4 <br>
 
-Tested: <br>
 Mobile Wallet (Android) | 5+ <br>
 Native Wallet: Windows | 4 <br>
 Native Wallet: OS X | 3.5 <br>
