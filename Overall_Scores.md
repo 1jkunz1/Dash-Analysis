@@ -72,8 +72,8 @@ Similar to some other (cheap) networks that have followed the model - impressive
 
 
 <b> Harware Wallets </b>| 5 <br>
-Trezor: Yes
-Ledger: Yes
+Trezor: Yes <br>
+Ledger: Yes <br>
 Keepkey: Yes
 
 
