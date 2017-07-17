@@ -1,8 +1,8 @@
 # Dash-Fundamental-Analysis
 
-This is not Investment Advice, it should not be taken as such. Ratings are subject to change.
+<b> This is not Investment Advice, it should not be taken as such. Ratings are subject to change. </b>
 
-Rating Chart: <br>
+<b> Rating Chart: </b> <br>
 
 5 = Excellent - Significantly Undervalued <br>
 4 = Very Good - Undervalued <br>
