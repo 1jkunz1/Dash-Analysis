@@ -18,11 +18,13 @@ https://www.dash.org/
 
 $DASH Overall Grade: <b> 4.5 - Undervalued </b>
 
+Last Update: 07/17/2017
+
 -----------------------------------------------------------------------------------------------------------
 
 | Metric        | Quantity           |  Grade  |
 | ------------- |:-------------:| -----:|
-| Merchants      | Yes | 5 |
+| Merchants      | 70+ | 5 |
 | Organic Volume    | 9.72tx/Block      |  3.5 |
 | Organinc Money Spent | $DASH 1476      |    5 |
 | Masternode Distribution      | +++ | 5 |
