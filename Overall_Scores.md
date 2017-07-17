@@ -45,7 +45,7 @@ Organic Volume: https://explorer.dashninja.pl/chain/Dash (Link to last 500tx's i
 
 Organic Transactions per Block: 9.72
 
-Organic Money Spent: $DASH 1476 | 5*
+Organic Money Spent: $DASH 1476 (See Excel File in Repo)
 
 Maternodes Map by Country: http://178.254.23.111/~pub/Darkcoin/Masternodes_Map.html
 
