@@ -16,7 +16,7 @@ $DASH Overall Score: <b> 4.5 - Undervalued </b>
 
 -----------------------------------------------------------------------------------------------------------
 
-<b> Statistics: </b>
+<b> Statistics: </b> | 4.5
 
 Merchants: https://www.dash.org/merchants/ - 70+ | 5
 
