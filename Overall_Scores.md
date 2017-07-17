@@ -4,7 +4,7 @@
 
 <b> Rating Chart: </b> <br>
 
-5 = Excellent - Significantly Undervalued <br>
+<green> 5 = Excellent - Significantly Undervalued <br> </green>
 4 = Very Good - Undervalued <br>
 3 = Good - Properly Valued <br>
 2 = Needs Improvement - Overalued <br>
