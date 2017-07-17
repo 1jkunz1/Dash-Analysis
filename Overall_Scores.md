@@ -4,7 +4,7 @@
 
 <b> Rating Chart: </b> <br>
 
-5 = Excellent - Significantly Undervalued</font>
+5 = Excellent - Significantly Undervalued <br>
 4 = Very Good - Undervalued <br>
 3 = Good - Properly Valued <br>
 2 = Needs Improvement - Overalued <br>
@@ -15,26 +15,20 @@
 $DASH Overall Score: <b> 4.5 - Undervalued </b>
 
 -----------------------------------------------------------------------------------------------------------
-Colons can be used to align columns.
 
 | Metric        | Quantity           | Rating  |
 | ------------- |:-------------:| -----:|
 | Merchants      | Yes | 5 |
 | Organic Volume    | 9.72tx/Block      |  3.5 |
 | Organinc Money Spent | $DASH 1476      |    5 |
-| Masternode Distribution      | right-aligned | $1600 |
-| Masternode Activity    | centered      |   $12 |
-| Debit Cards | are neat      |    $1 |
-| ATM's | are neat      |    $1 |
-| Development Activity | are neat      |    $1 |
-| Network Speed | are neat      |    $1 |
-| Software QA| are neat      |    $1 |
-| Hardware QA| are neat      |    $1 |
-
-
-
-
-
+| Masternode Distribution      | +++ | 5 |
+| Masternode Activity    | 4550      |   5|
+| Debit Cards | 5+      |    5 |
+| ATM's | 12      |    4.5 |
+| Development Activity | Highly Active      |    5 |
+| Network Speed | Near-Instant     |    4.5 |
+| Software QA| High Quality     |    4+ |
+| Software Security| Very Secure      |    4+ |
 
 
 
