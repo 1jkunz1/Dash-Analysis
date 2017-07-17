@@ -26,7 +26,7 @@ Last Update: 07/17/2017
 | ------------- |:-------------:| -----:|
 | Merchants      | 70+ | 5 |
 | Organic Volume    | 9.72tx/Block      |  3.5 |
-| Organinc Money Spent | $DASH 1476      |    5 |
+| Organic Money Spent | $DASH 1476      |    5 |
 | Masternode Distribution      | +++ | 5 |
 | Masternode Activity    | 4550      |   5|
 | Debit Cards | 5+      |    5 |
