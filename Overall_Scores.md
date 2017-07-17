@@ -2,7 +2,11 @@
 
 <b> This is not Investment Advice, it should not be taken as such. Ratings are subject to change. </b>
 
-<b> Rating Chart: </b> <br>
+<b> $DASH - Digital Cash. "Use Dash to make instant, private payments online or in-store using our secure open-source platform hosted by thousands of users around the world." </b>
+
+https://www.dash.org/
+
+<b> Grade Chart: </b> <br>
 
 5 = Excellent - Significantly Undervalued <br>
 4 = Very Good - Undervalued <br>
@@ -12,11 +16,11 @@
 
 * = Needs more analysis, or unsure if data point is accurate
 
-$DASH Overall Score: <b> 4.5 - Undervalued </b>
+$DASH Overall Grade: <b> 4.5 - Undervalued </b>
 
 -----------------------------------------------------------------------------------------------------------
 
-| Metric        | Quantity           | AlphaCoin Rating  |
+| Metric        | Quantity           |  Grade  |
 | ------------- |:-------------:| -----:|
 | Merchants      | Yes | 5 |
 | Organic Volume    | 9.72tx/Block      |  3.5 |
