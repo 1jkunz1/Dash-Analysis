@@ -21,7 +21,7 @@ $DASH Overall Grade: <b> 4.5 - Undervalued </b>
 Last Update: 07/17/2017
 
 -----------------------------------------------------------------------------------------------------------
-
+<b> Key Performance Indicators</b>
 | Metric        | Quantity           |  Grade  |
 | ------------- |:-------------:| -----:|
 | Merchants      | 70+ | 5 |
@@ -86,7 +86,6 @@ Slack / Community / Heroku Members: 5,000+
 
 https://www.dash.org/2017/07/14/festy.html - Festy wristband lets users pay with Dash
 Jul 14, 2017
-
 https://www.dash.org/2017/07/14/coreinchina.html - Dash Core coming to China ; )
 Jul 14, 2017
 
