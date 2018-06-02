@@ -1,7 +1,9 @@
 [![Stories in Ready](https://badge.waffle.io/1jkunz1/Dash-Analysis.png?label=ready&title=Ready)](https://waffle.io/1jkunz1/Dash-Analysis?utm_source=badge)
 # Dash-Analysis
 
-Fundametal $DASH Network / Software / Harware Analysis
+Fundametal DASH Network / Software / Harware Analysis.
+
+Intemended to be a template for future FA research notes
 
 See "Overall_Scores.md" for comprehensive ratings 
 
